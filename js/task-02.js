@@ -18,11 +18,11 @@ const ingredients = [
 // const addElement = (element) => {
 //  let listItem = [];
 //   for (const elem of element){
-//     const li = document.createElement('li');
-//     li.classList.add('item');
-//     li.append(elem);
-//     listItem.push(li);
-//     // console.log(li);
+//     const liEl = document.createElement('li');
+//     liEl.classList.add('item');
+//     liEl.append(elem);
+//     listItem.push(liEl);
+//     // console.log(liEl);
 //   }
 
 //   return listItem;
