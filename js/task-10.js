@@ -30,6 +30,7 @@ function createBoxes(amount) {
     fragment.appendChild(div);
   }
   boxesEl.appendChild(fragment);
+  controls.firstElementChild.value = '';
 }
 
 function destroyBoxes() {
